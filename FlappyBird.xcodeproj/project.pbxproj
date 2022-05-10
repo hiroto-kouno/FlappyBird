@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07BE06132828A6DD001F5D76 /* se.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07BE06122828A6DD001F5D76 /* se.mp3 */; };
 		07ED5EC128162CE300633C40 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07ED5EC028162CE300633C40 /* AppDelegate.swift */; };
 		07ED5EC328162CE300633C40 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07ED5EC228162CE300633C40 /* SceneDelegate.swift */; };
 		07ED5EC528162CE300633C40 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07ED5EC428162CE300633C40 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07BE06122828A6DD001F5D76 /* se.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = se.mp3; sourceTree = "<group>"; };
 		07ED5EBD28162CE300633C40 /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07ED5EC028162CE300633C40 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		07ED5EC228162CE300633C40 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				07ED5ED42816407000633C40 /* GameScene.swift */,
 				07ED5EC628162CE300633C40 /* Main.storyboard */,
 				07ED5EC928162CE400633C40 /* Assets.xcassets */,
+				07BE06122828A6DD001F5D76 /* se.mp3 */,
 				07ED5ECB28162CE400633C40 /* LaunchScreen.storyboard */,
 				07ED5ECE28162CE400633C40 /* Info.plist */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07BE06132828A6DD001F5D76 /* se.mp3 in Resources */,
 				07ED5ECD28162CE400633C40 /* LaunchScreen.storyboard in Resources */,
 				07ED5ECA28162CE400633C40 /* Assets.xcassets in Resources */,
 				07ED5EC828162CE300633C40 /* Main.storyboard in Resources */,
